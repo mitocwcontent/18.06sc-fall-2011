@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: 'Problem Solving: Pseudoinverses'
+uid: 420242da-881e-acaa-76fb-5fbc624a6bdf
+video_files:
+  archive_url: http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110714_D1_300k.mp4
+  video_captions_file: /courses/18-06sc-linear-algebra-fall-2011/09dda98b4e04571ea7325d5e851513bf_hSRcHTafkjE.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/hSRcHTafkjE/default.jpg
+  video_transcript_file: /courses/18-06sc-linear-algebra-fall-2011/fb51b340570267316fcc14d0d3a07777_hSRcHTafkjE.pdf
+video_metadata:
+  youtube_id: hSRcHTafkjE
+---
